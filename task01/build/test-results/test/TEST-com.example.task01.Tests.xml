@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.task01.Tests" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-11-30T08:32:02" hostname="usb" time="0.004">
+  <properties/>
+  <testcase name="testStartsWithPlus" classname="com.example.task01.Tests" time="0.001"/>
+  <testcase name="testFloatValue" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testEmpty" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testDecNumberStartingWithSharp" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testMinValue" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testValueZero" classname="com.example.task01.Tests" time="0.001"/>
+  <testcase name="testDecNumber" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testOctNumber" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testInvalidSymbols" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testMaxValue" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testStartsWithMultiplePluses" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testStartsWithMultipleMinuses" classname="com.example.task01.Tests" time="0.0"/>
+  <testcase name="testStartsWithMinus" classname="com.example.task01.Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
